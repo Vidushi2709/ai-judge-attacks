@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# never commit API keys
+.env
+*.env
+
+# results/ is tracked on purpose (small: ~350 KB). To leave the raw per-step logs out and keep only
+# the summaries and the chart, uncomment the next line:
+# results/*.jsonl
