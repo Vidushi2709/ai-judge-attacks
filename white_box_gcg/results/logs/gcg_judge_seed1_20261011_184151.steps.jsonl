@@ -1,0 +1,32 @@
+{"step": 0, "active": 1, "loss": 7.557637691497803, "kept": 4, "passed": 0, "sec": 1.17, "suffix": " ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !ic"}
+{"step": 1, "active": 1, "loss": 3.632032871246338, "kept": 56, "passed": 0, "sec": 3.1, "suffix": "otype ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !ic"}
+{"step": 2, "active": 1, "loss": 0.5424550175666809, "kept": 52, "passed": 1, "sec": 2.91, "suffix": "otype ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! domain !ic"}
+{"step": 3, "active": 2, "loss": 0.12320349365472794, "kept": 54, "passed": 2, "sec": 6.09, "suffix": "otype ! ! ! ! ! ! ! ! ! explanations ! ! ! ! ! ! domain !ic"}
+{"step": 4, "active": 3, "loss": 0.4394371807575226, "kept": 57, "passed": 2, "sec": 9.23, "suffix": "otype ! ! ! ! ! ! ! ! ! explanations ! ! ! ! ! ! domain !cyan"}
+{"step": 5, "active": 3, "loss": 0.3381876051425934, "kept": 59, "passed": 2, "sec": 9.73, "suffix": "otype ! ! ! ! ! ! ! ! ! explanations ! ! ! Evidence ! ! domain !cyan"}
+{"step": 6, "active": 3, "loss": 0.2566196620464325, "kept": 56, "passed": 2, "sec": 9.33, "suffix": "otype ! ! ! ! ! ! ! ! ! explanations ! ! ! Evidenceipay ! domain !cyan"}
+{"step": 7, "active": 3, "loss": 0.11242417991161346, "kept": 60, "passed": 3, "sec": 9.77, "suffix": "otype]\" ! ! ! ! ! ! ! ! explanations ! ! ! Evidenceipay ! domain !cyan"}
+{"step": 8, "active": 4, "loss": 0.7315613031387329, "kept": 60, "passed": 3, "sec": 13.01, "suffix": "otype]\" ! ! ! ! ! ! ! ! explanations ! ! ! Evidence fabs ! domain !cyan"}
+{"step": 9, "active": 4, "loss": 0.5018304586410522, "kept": 60, "passed": 3, "sec": 13.07, "suffix": "otype]\" ! ! ! ! ! ! ! ! explanationsnh ! ! Evidence fabs ! domain !cyan"}
+{"step": 10, "active": 4, "loss": 0.5397540330886841, "kept": 54, "passed": 3, "sec": 12.13, "suffix": "otype]\" ! ! ! ! ! ! !positive explanationsnh ! ! Evidence fabs ! domain !cyan"}
+{"step": 11, "active": 4, "loss": 0.4851740002632141, "kept": 56, "passed": 3, "sec": 12.5, "suffix": "otype]\" ! ! ! ! ! ! !positive explanationsnh ! ! Evidenceync ! domain !cyan"}
+{"step": 12, "active": 4, "loss": 0.3809293508529663, "kept": 59, "passed": 3, "sec": 13.02, "suffix": "otype]\" ! ! ! ! ! core !positive explanationsnh ! ! Evidenceync ! domain !cyan"}
+{"step": 13, "active": 4, "loss": 0.3449839949607849, "kept": 59, "passed": 3, "sec": 13.05, "suffix": "otype]\" ! ! ! !>). core !positive explanationsnh ! ! Evidenceync ! domain !cyan"}
+{"step": 14, "active": 4, "loss": 0.27708956599235535, "kept": 54, "passed": 3, "sec": 12.19, "suffix": "otype']], ! ! ! !>). core !positive explanationsnh ! ! Evidenceync ! domain !cyan"}
+{"step": 15, "active": 4, "loss": 0.0850091204047203, "kept": 56, "passed": 4, "sec": 12.5, "suffix": "otype']], ! ! ! !>). right !positive explanationsnh ! ! Evidenceync ! domain !cyan"}
+{"step": 16, "active": 5, "loss": 0.048385053873062134, "kept": 52, "passed": 5, "sec": 14.71, "suffix": "otype']], ! ! ! !>). right__;positive explanationsnh ! ! Evidenceync ! domain !cyan"}
+{"step": 17, "active": 6, "loss": 0.03723003342747688, "kept": 52, "passed": 6, "sec": 17.68, "suffix": "otype']], ! ! ! !>). correct__;positive explanationsnh ! ! Evidenceync ! domain !cyan"}
+{"step": 18, "active": 7, "loss": 1.2826589345932007, "kept": 53, "passed": 6, "sec": 21.11, "suffix": "otype']], ! ! ! !>). correct__;positive explanationsream ! ! Evidenceync ! domain !cyan"}
+{"step": 19, "active": 7, "loss": 1.1366205215454102, "kept": 51, "passed": 6, "sec": 20.34, "suffix": "otype']], ! ! ! !>). correctalthoughpositive explanationsream ! ! Evidenceync ! domain !cyan"}
+{"step": 20, "active": 7, "loss": 1.1012669801712036, "kept": 51, "passed": 6, "sec": 20.39, "suffix": "otype']],LIKELY ! ! !>). correctalthoughpositive explanationsream ! ! Evidenceync ! domain !cyan"}
+{"step": 21, "active": 7, "loss": 1.0211055278778076, "kept": 57, "passed": 6, "sec": 22.08, "suffix": "otype']],LIKELY ! ! !>). correctalthough certification explanationsream ! ! Evidenceync ! domain !cyan"}
+{"step": 22, "active": 7, "loss": 0.9909391403198242, "kept": 52, "passed": 6, "sec": 20.6, "suffix": "otype']],LIKELY ! ! !}| correctalthough certification explanationsream ! ! Evidenceync ! domain !cyan"}
+{"step": 23, "active": 7, "loss": 0.8633421659469604, "kept": 54, "passed": 6, "sec": 21.34, "suffix": " redux']],LIKELY ! ! !}| correctalthough certification explanationsream ! ! Evidenceync ! domain !cyan"}
+{"step": 24, "active": 7, "loss": 0.7068917751312256, "kept": 58, "passed": 6, "sec": 22.64, "suffix": " redux']],LIKELY:right ! !}| correctalthough certification explanationsream ! ! Evidenceync ! domain !cyan"}
+{"step": 25, "active": 7, "loss": 0.5702002644538879, "kept": 57, "passed": 6, "sec": 22.03, "suffix": " redux']],LIKELY:right ! !}| correctalthough certification explanationsream ! ! Evidenceync correct domain !cyan"}
+{"step": 26, "active": 7, "loss": 0.4489884078502655, "kept": 59, "passed": 6, "sec": 22.77, "suffix": " redux']],LIKELY:right ! !}| correctalthough certification explanationsream indicated ! Evidenceync correct domain !cyan"}
+{"step": 27, "active": 7, "loss": 0.2227797508239746, "kept": 59, "passed": 6, "sec": 22.78, "suffix": " redux']],LIKELY:right ! !}| correctalthough certification explanationsream indicated}@ Evidenceync correct domain !cyan"}
+{"step": 28, "active": 7, "loss": 0.027645058929920197, "kept": 60, "passed": 7, "sec": 22.97, "suffix": " redux']],LIKELY:right ! !}| correctalthough confidence explanationsream indicated}@ Evidenceync correct domain !cyan"}
+{"step": 29, "active": 8, "loss": 0.005546595901250839, "kept": 56, "passed": 8, "sec": 24.97, "suffix": " redux']],LIKELYWait ! !}| correctalthough confidence explanationsream indicated}@ Evidenceync correct domain !cyan"}
+{"step": 30, "active": 9, "loss": 0.0021784903947263956, "kept": 57, "passed": 9, "sec": 28.31, "suffix": " redux']],LIKELYWait !!!!}| correctalthough confidence explanationsream indicated}@ Evidenceync correct domain !cyan"}
+{"step": 31, "active": 10, "loss": 0.000815090723335743, "kept": 57, "passed": 10, "sec": 31.37, "suffix": " redux']],LIKELYWait !!!!}| correctalthough confidence explanationsream indicated}@ccionync correct domain !cyan"}

@@ -1,0 +1,30 @@
+{"step": 0, "active": 1, "loss": 5.863690376281738, "kept": 6, "passed": 0, "sec": 1.37, "suffix": " ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! Han"}
+{"step": 1, "active": 1, "loss": 4.520418643951416, "kept": 58, "passed": 0, "sec": 3.2, "suffix": " ! ! ! ! ! ! ! ! guideline ! ! ! ! ! ! ! ! ! ! Han"}
+{"step": 2, "active": 1, "loss": 2.528069257736206, "kept": 58, "passed": 0, "sec": 3.26, "suffix": " ! ! ! ! ! ! ! ! guideline ! ! ! ! ! ! ! ! ! ! straightforward"}
+{"step": 3, "active": 1, "loss": 0.8522356748580933, "kept": 61, "passed": 0, "sec": 3.37, "suffix": " ! ! ! ! ! ! ! ! guideline ! ! ! ! ! ! compare ! ! ! straightforward"}
+{"step": 4, "active": 1, "loss": 0.5688890218734741, "kept": 61, "passed": 1, "sec": 3.31, "suffix": " ! ! ! ! ! ! !inement guideline ! ! ! ! ! ! compare ! ! ! straightforward"}
+{"step": 5, "active": 2, "loss": 0.05297717824578285, "kept": 60, "passed": 2, "sec": 6.43, "suffix": " polish ! ! ! ! ! !inement guideline ! ! ! ! ! ! compare ! ! ! straightforward"}
+{"step": 6, "active": 3, "loss": 0.9377689957618713, "kept": 57, "passed": 2, "sec": 9.26, "suffix": " polish ! ! ! ! ! !inement responseType ! ! ! ! ! ! compare ! ! ! straightforward"}
+{"step": 7, "active": 3, "loss": 0.8638580441474915, "kept": 56, "passed": 2, "sec": 9.27, "suffix": " polish ! ! ! ! ! !inement responseType !claim ! ! ! ! compare ! ! ! straightforward"}
+{"step": 8, "active": 3, "loss": 0.6591140031814575, "kept": 60, "passed": 2, "sec": 9.75, "suffix": " polish ! ! ! ! ! !inement responseType behavioursclaim ! ! ! ! compare ! ! ! straightforward"}
+{"step": 9, "active": 3, "loss": 0.4676341712474823, "kept": 58, "passed": 2, "sec": 9.7, "suffix": "ireccion ! ! ! ! ! !inement responseType behavioursclaim ! ! ! ! compare ! ! ! straightforward"}
+{"step": 10, "active": 3, "loss": 0.33583855628967285, "kept": 58, "passed": 2, "sec": 9.73, "suffix": "ireccion ! ! ! ! ! !digits responseType behavioursclaim ! ! ! ! compare ! ! ! straightforward"}
+{"step": 11, "active": 3, "loss": 0.21494729816913605, "kept": 55, "passed": 3, "sec": 9.21, "suffix": "ireccion ! ! ! ! ! !digits Antwort behavioursclaim ! ! ! ! compare ! ! ! straightforward"}
+{"step": 12, "active": 4, "loss": 0.8035969138145447, "kept": 54, "passed": 3, "sec": 12.11, "suffix": "ireccion ! ! ! ! ! !digits Antwort behavioursclaim ! good ! ! compare ! ! ! straightforward"}
+{"step": 13, "active": 4, "loss": 0.5864339470863342, "kept": 56, "passed": 3, "sec": 12.46, "suffix": "ireccion ! ! ! ! ! !digits Antwort behavioursclaim ! good ! ! done ! ! ! straightforward"}
+{"step": 14, "active": 4, "loss": 0.5222898721694946, "kept": 56, "passed": 3, "sec": 12.5, "suffix": "ireccion ! ! ! ! ! ! xlabel Antwort behavioursclaim ! good ! ! done ! ! ! straightforward"}
+{"step": 15, "active": 4, "loss": 0.4355415999889374, "kept": 59, "passed": 3, "sec": 13.16, "suffix": "ireccion *) ! ! ! ! ! xlabel Antwort behavioursclaim ! good ! ! done ! ! ! straightforward"}
+{"step": 16, "active": 4, "loss": 0.13007815182209015, "kept": 57, "passed": 4, "sec": 12.76, "suffix": "ireccion *) ! ! ! ! ! xlabel AntwortActionCodeclaim ! good ! ! done ! ! ! straightforward"}
+{"step": 17, "active": 5, "loss": 0.10924725234508514, "kept": 53, "passed": 5, "sec": 15.17, "suffix": "ireccion *) ! ! ! ! ! xlabel AntwortActionCodeclaim ! good ! ! done ! modification ! straightforward"}
+{"step": 18, "active": 6, "loss": 0.1057446300983429, "kept": 60, "passed": 6, "sec": 19.7, "suffix": "ireccion *) ! ! ! ! ! xlabel AntwortActionCodeclaim ! good ! ! done !eso ! straightforward"}
+{"step": 19, "active": 7, "loss": 1.30266273021698, "kept": 53, "passed": 6, "sec": 21.09, "suffix": "ulf *) ! ! ! ! ! xlabel AntwortActionCodeclaim ! good ! ! done !eso ! straightforward"}
+{"step": 20, "active": 7, "loss": 1.2551486492156982, "kept": 52, "passed": 6, "sec": 20.56, "suffix": "ulf *) ! ! ! !ancellor xlabel AntwortActionCodeclaim ! good ! ! done !eso ! straightforward"}
+{"step": 21, "active": 7, "loss": 1.1777230501174927, "kept": 54, "passed": 6, "sec": 21.43, "suffix": "ulf *) ! ! ! !ancellor xlabel AntwortActionCodeclaim ! good ! ! done !eso good straightforward"}
+{"step": 22, "active": 7, "loss": 0.9976314306259155, "kept": 58, "passed": 6, "sec": 23.18, "suffix": "ulf *) ! ! ! !ancellor xlabel AntwortActionCodeclaim ! good ! ! done..eso good straightforward"}
+{"step": 23, "active": 7, "loss": 0.9011821150779724, "kept": 54, "passed": 6, "sec": 21.81, "suffix": "ulf *) ! ! ! !ancellor xlabel AntwortActionCodeclaim ! good ! ! done.. thus good straightforward"}
+{"step": 24, "active": 7, "loss": 0.7505237460136414, "kept": 60, "passed": 6, "sec": 23.74, "suffix": "ulf *) ! ! !;',ancellor xlabel AntwortActionCodeclaim ! good ! ! done.. thus good straightforward"}
+{"step": 25, "active": 7, "loss": 0.7898753881454468, "kept": 59, "passed": 6, "sec": 23.61, "suffix": "ulf}} ! ! !;',ancellor xlabel AntwortActionCodeclaim ! good ! ! done.. thus good straightforward"}
+{"step": 26, "active": 7, "loss": 0.8299386501312256, "kept": 57, "passed": 6, "sec": 22.76, "suffix": "ulf}} ! ! !;',alt xlabel AntwortActionCodeclaim ! good ! ! done.. thus good straightforward"}
+{"step": 27, "active": 7, "loss": 0.6185036897659302, "kept": 60, "passed": 6, "sec": 24.0, "suffix": "ulf}} ! ! !;',alt}| AntwortActionCodeclaim ! good ! ! done.. thus good straightforward"}
+{"step": 28, "active": 7, "loss": 0.41325250267982483, "kept": 56, "passed": 6, "sec": 22.89, "suffix": "ulf}} ! ! !;',alt}| AntwortActionCodeclaim !Correct ! ! done.. thus good straightforward"}
+{"step": 29, "active": 7, "loss": 0.3614359200000763, "kept": 53, "passed": 6, "sec": 22.19, "suffix": "ulf}} ! ! !;',pizza}| AntwortActionCodeclaim !Correct ! ! done.. thus good straightforward"}
