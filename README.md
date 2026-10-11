@@ -1,5 +1,18 @@
 # ai-judge-attacks
 
+Can one fixed piece of text make an LLM judge accept "I don't have enough information to answer that." as a **correct** answer, even though the judge is given the expected answer? Two parts:
+
+| Part | Folder | Attacker can… | Headline |
+|---|---|---|---|
+| **1. Black-box** | this folder | only send text and read the judge's score | A readable sentence from a local LLM got 24% of refusals past llama3 8B and carried over to Gemini Flash-Lite (5% → 18%); word-level search plateaued and didn't transfer. |
+| **2. White-box** | [`white_box_gcg/`](white_box_gcg/) | see the judge's gradients (GCG) | A 20-token GCG suffix passes **107–108 of 108** held-out refusals on Qwen3-4B (3 seeds), works after any wording of "I don't know" and even passes wrong answers, but transfers to **0/108** on llama3 and on the updated Qwen3-4B-2507, and only partly to Qwen3-1.7B (12–47/108). Explaining first doesn't reliably protect the judge. |
+
+Short version of both parts together: **gradient attacks are near-perfect on the judge they were built for and close to useless anywhere else; readable arguments are weaker at home but can travel, and a judge that explains before deciding can be talked into them.** Part 2 has its own [README](white_box_gcg/README.md) and [write-up](white_box_gcg/WRITEUP.md).
+
+---
+
+## Part 1: black-box search
+
 Search for a fixed text that makes an LLM judge accept a refusal ("I don't have enough
 information to answer that.") as a correct answer, even though the judge is given the
 expected answer. The judge runs locally through Ollama and reports the probability it

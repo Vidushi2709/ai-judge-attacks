@@ -1,6 +1,6 @@
 # Attacking the judge: can one fixed text make "I don't know" pass?
 
-*Week 04 deep-dive, last experiment. Run on 4 Oct 2026. Code and results are in this folder.*
+*Part 1 of ai-judge-attacks (the black-box study). Run on 4 Oct 2026. Code and results are in this folder.*
 
 ---
 
